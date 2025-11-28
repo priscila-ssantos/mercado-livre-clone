@@ -4,25 +4,25 @@ Descrição
 
 Este projeto é um clone visual do site Mercado Livre, criado com foco em:
 
-Estruturação HTML
+•Estruturação HTML
 
-Estilização com CSS
+•Estilização com CSS
 
-Responsividade
+•Responsividade
 
-Manipulação de elementos com JavaScript
+•Manipulação de elementos com JavaScript
 
-Renderização dinâmica de produtos
+•Renderização dinâmica de produtos
 
-Sistema de busca simples
+•Sistema de busca simples
 
 O objetivo foi reproduzir a interface de forma funcional para aprimorar habilidades de front-end.
 
 
 Tecnologias utilizadas
 
-HTML5
+•HTML5
 
-CSS3
+•CSS3
 
-JavaScript
+•JavaScript
